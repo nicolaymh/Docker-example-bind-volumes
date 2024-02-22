@@ -64,7 +64,7 @@ function App() {
                      );
                   })}
                </ul>
-            </div>
+            </div>                        
 
             <div className="dots-container">
                {data.map((_, idx) => (
